@@ -1,0 +1,9 @@
+﻿{
+  "profiles": {
+    "AF_Hello_World": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7036",
+      "launchBrowser": false
+    }
+  }
+}
